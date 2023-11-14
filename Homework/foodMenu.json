@@ -1,0 +1,106 @@
+[
+  {
+    "foodName": "ghorme",
+    "foodCode": 1,
+    "foodPrice": 120000,
+    "foodIngredients": [
+      "lobia",
+      "rob",
+      "gosht"
+    ]
+  },
+  {
+    "foodName": "gheime",
+    "foodCode": 2,
+    "foodPrice": 100000,
+    "foodIngredients": [
+      "nokhod",
+      "rob",
+      "gosht",
+      "sibzamini"
+    ]
+  },
+  {
+    "foodName": "abgosht",
+    "foodCode": 3,
+    "foodPrice": 80000,
+    "foodIngredients": [
+      "lape",
+      "rob",
+      "goshtMorgh",
+      "sibzamini",
+      "sabzi"
+    ]
+  },
+  {
+    "foodName": "kabab",
+    "foodCode": 4,
+    "foodPrice": 70000,
+    "foodIngredients": [
+      "goje",
+      "gosht"
+    ]
+  },
+  {
+    "foodName": "khorak sabzijat",
+    "foodCode": 5,
+    "foodPrice": 60000,
+    "foodIngredients": [
+      "kaho",
+      "kalam",
+      "lobia sabz"
+    ]
+  },
+  {
+    "foodName": "kobide",
+    "foodCode": 6,
+    "foodPrice": 130000,
+    "foodIngredients": [
+      "gosht gosfand",
+      "brenj",
+      "goje",
+      "somagh"
+    ]
+  },
+  {
+    "foodName": "joje",
+    "foodCode": 7,
+    "foodPrice": 140000,
+    "foodIngredients": [
+      "gosht morgh",
+      "brenj",
+      "goje"
+    ]
+  },
+  {
+    "foodName": "ratatoy",
+    "foodCode": 8,
+    "foodPrice": 95000,
+    "foodIngredients": [
+      "non pitza",
+      "kado",
+      "gharch"
+    ]
+  },
+  {
+    "foodName": "shirbrenj",
+    "foodCode": 9,
+    "foodPrice": 50000,
+    "foodIngredients": [
+      "shir",
+      "brenj"
+    ]
+  },
+  {
+    "foodName": "sandvich hamber",
+    "foodCode": 10,
+    "foodPrice": 110000,
+    "foodIngredients": [
+      "hamberger",
+      "noon",
+      "goje",
+      "khiarshor",
+      "kaho"
+    ]
+  }
+]

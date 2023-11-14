@@ -1,0 +1,71 @@
+{
+    "student_Code": 4,
+    "course_Code": 12,
+    "scores": [
+        {
+            "type": "exam",
+            "score": 95.99
+        },
+        {
+            "type": "quiz",
+            "score": 70.27
+        },
+        {
+            "type": "homework",
+            "score": 48.76
+        },
+        {
+            "type": "homework",
+            "score": 7.83
+        }
+    ],
+    "grade": "A"
+}{
+    "student_Code": 4,
+    "course_Code": 11,
+    "scores": [
+        {
+            "type": "exam",
+            "score": 95.79
+        },
+        {
+            "type": "quiz",
+            "score": 99.7
+        },
+        {
+            "type": "homework",
+            "score": 91.73
+        },
+        {
+            "type": "homework",
+            "score": 96.83
+        },
+        {
+            "type": "homework",
+            "score": 50.26
+        }
+    ],
+    "grade": "A"
+}{
+    "student_Code": 5,
+    "course_Code": 19,
+    "scores": [
+        {
+            "type": "exam",
+            "score": 91.6
+        },
+        {
+            "type": "quiz",
+            "score": 77.86
+        },
+        {
+            "type": "homework",
+            "score": 56.59
+        },
+        {
+            "type": "homework",
+            "score": 79.14
+        }
+    ],
+    "grade": "A"
+}

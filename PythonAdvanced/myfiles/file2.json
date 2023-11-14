@@ -1,0 +1,12 @@
+[
+    {
+        "doge":1,
+        "cat":2,
+        "baby":3,
+        "color":[
+            "red",
+            "green",
+            "yelow"
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+x=25
+x+=3
+print(x)
+x*=6
+print(x)
+x-=8
+print(x)
+x//=6
+print(x)
+x/=4
+print(x)
